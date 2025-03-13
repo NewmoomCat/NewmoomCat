@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @NewmoomCat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Minecraft:Bedrock Edition
-- ⚡ Fun fact: ...
+# 我是新月猫
+# I'm NewmoomCat/NewmoonNeko
 
-<!---
-NewmoomCat/NewmoomCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 是个菜鸟开发者
+- A noob Developer
 
-- a China middle school boy
+- 还在上初中！
+- A middle School Student!
+
+- 正在学习的语言： PHP，Java，C++......
+- Learning program Language: PHP, java, C++......
+
+Contact information
+- QQ:3649745663 or 3930102544
+- WeChat: asus_rog2006
+- Bilibili: 新月猫Neko 
